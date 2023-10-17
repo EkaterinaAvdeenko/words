@@ -1,5 +1,4 @@
 package com.epam.rd.autotasks.words;
-
 import java.util.Arrays;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
